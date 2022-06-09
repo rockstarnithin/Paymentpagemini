@@ -9,5 +9,5 @@
  
  ![](./demo.gif)
  
- ## Author 
-  [Nikhil Sahu](http://nikhilsahu.me/)
+
+  
